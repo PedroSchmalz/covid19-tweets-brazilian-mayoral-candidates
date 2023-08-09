@@ -1,4 +1,4 @@
-# Tweets about Covid-19 Vaccines of Brazilian Mayoral Candidates (2020)
+# Tweets of Brazilian Mayoral Candidates about Covid-19 Vaccines  (2020 and 2021)
 
 ## Content
 
