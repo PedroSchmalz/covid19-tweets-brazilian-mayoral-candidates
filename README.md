@@ -1,6 +1,5 @@
 # Tweets about Covid-19 Vaccines of Brazilian Mayoral Candidates (2020)
 
-
 ## Content
 
 We made available the following output from our annotation system:
