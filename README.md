@@ -15,6 +15,9 @@ For the post_vaccine column, the value 0 indicates that the tweet, even though i
 For the positions_vac column, 1 indicates a tweets that is favourable towards Covid-19 vaccines, 2 indicates that it is neutral towards these vaccines and 3 indicates the negative tweets.
 
 
+Codebook: Additionally, we provide the codebook with informations on the dataset building process, classification rules and some additional content.
+
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
