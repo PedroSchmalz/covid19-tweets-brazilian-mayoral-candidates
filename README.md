@@ -20,7 +20,7 @@ Codebook: Additionally, we provide the codebook with informations on the dataset
 ## Related Articles
 
 Barberia, Lorena; Schmalz, Pedro and Roman, Norton. (2023). "When Tweets Get Viral - A Deep Learning Approach for
-Stance Analysis of Covid-19 Vaccines Tweets by Brazilian Political Elites". Paper presented at 15th Symposium in Information and Human Language Technology (STIL). 
+Stance Analysis of Covid-19 Vaccines Tweets by Brazilian Political Elites". Paper presented at 15th Symposium in Information and Human Language Technology (STIL), September 2023.  
 
 
 ## License
