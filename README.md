@@ -15,12 +15,15 @@ For the post_vaccine column, the value 0 indicates that the tweet, even though i
 For the positions_vac column, 1 indicates a tweets that is favourable towards Covid-19 vaccines, 2 indicates that it is neutral towards these vaccines and 3 indicates the unfavourable tweets.
 
 
-Codebook: Additionally, we provide the codebook with informations on the dataset building process, classification rules and some additional content.
+Codebook: We also provide the codebook with informations on the dataset building process, classification rules and some additional content.
+
+STIL Presentations Slides: Addittionally, we include the slides of the STIL presentation (October 28th, 2023).
+
+
 
 ## Related Articles
 
-Barberia, Lorena; Schmalz, Pedro and Roman, Norton. (2023). "When Tweets Get Viral - A Deep Learning Approach for
-Stance Analysis of Covid-19 Vaccines Tweets by Brazilian Political Elites". Paper to be presented at 15th Symposium in Information and Human Language Technology (STIL), September 2023.  
+BARBERIA, Lorena Guadalupe; SCHMALZ, Pedro Henrique de Santana; ROMAN, Norton Trevisan. When Tweets Get Viral - A Deep Learning Approach for Stance Analysis of Covid-19 Vaccines Tweets by Brazilian Political Elites. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14. , 2023, Belo Horizonte/MG. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 104-114. DOI: https://doi.org/10.5753/stil.2023.233961.
 
 
 ## License
